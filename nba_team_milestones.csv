@@ -1,0 +1,197 @@
+Season,Shortened_Season,Team,Wins,Losses,Win_Pct,Standing,Conference,Hit_40_Before_20,Hit_50_Before_20,Hit_60_Before_20,Hit_40_Before_10,Date_40th_Win,Record_40th_Win,Playoff_Result
+1979-80,No,Los Angeles Lakers,60,22,0.732,1st,West,Yes,No,No,No,2/8/1980,40-17,Champions
+1979-80,No,Boston Celtics,61,21,0.744,1st,East,Yes,Yes,No,No,1/30/1980,40-13,Conf Finals
+1979-80,No,Philadelphia 76ers,59,23,0.72,3rd,East,Yes,Yes,No,No,2/10/1980,40-16,Finals
+1979-80,No,Seattle Super Sonics,56,26,0.683,3rd,West,Yes,No,No,No,2/7/1980,40-16,Conf Finals
+1980-81,No,Boston Celtics,62,20,0.756,1st,East,Yes,Yes,Yes,Yes,1/21/1981,40-9,Champions
+1980-81,No,Milwaukee Bucks,60,22,0.732,2nd,East,Yes,Yes,No,No,2/5/1981,40-15,Conf Semis
+1980-81,No,Philadelphia 76ers,62,20,0.756,3rd,East,Yes,Yes,Yes,Yes,1/16/1981,40-8,Conf Finals
+1980-81,No,Phoenix Suns,57,25,0.695,1st,West,Yes,No,No,No,2/23/1981,40-13,Conf Finals
+1981-82,No,Los Angeles Lakers,57,25,0.695,1st,West,Yes,No,No,No,2/26/1982,40-17,Champions
+1981-82,No,Boston Celtics,63,19,0.768,1st,East,Yes,Yes,Yes,No,2/28/1982,40-15,Conf Finals
+1981-82,No,Milwaukee Bucks,55,27,0.671,2nd,East,Yes,No,No,No,2/24/1982,40-15,Conf Semis
+1981-82,No,Philadelphia 76ers,58,24,0.707,3rd,East,Yes,No,No,No,2/23/1982,40-14,Finals
+1982-83,No,Philadelphia 76ers,65,17,0.793,1st,East,Yes,Yes,Yes,Yes,2/3/1983,40-6,Champions
+1982-83,No,Los Angeles Lakers,58,24,0.707,1st,West,Yes,Yes,No,No,2/20/1983,40-13,Finals
+1982-83,No,Boston Celtics,56,26,0.683,3rd,East,Yes,No,No,No,2/23/1983,40-14,Conf Semis
+1983-84,No,Boston Celtics,62,20,0.756,1st,East,Yes,Yes,Yes,No,2/16/1984,40-12,Champions
+1984-85,No,Los Angeles Lakers,62,20,0.756,1st,West,Yes,Yes,No,No,2/21/1985,40-16,Champions
+1984-85,No,Boston Celtics,63,19,0.768,1st,East,Yes,Yes,Yes,Yes,2/5/1985,40-9,Finals
+1984-85,No,Milwaukee Bucks,59,23,0.72,2nd,East,Yes,No,No,No,2/26/1985,40-18,Conf Semis
+1984-85,No,Philadelphia 76ers,58,24,0.707,3rd,East,Yes,Yes,No,No,2/12/1985,40-10,Conf Finals
+1985-86,No,Boston Celtics,67,15,0.817,1st,East,Yes,Yes,Yes,No,2/14/1986,40-9,Champions
+1985-86,No,Los Angeles Lakers,62,20,0.756,1st,West,Yes,Yes,Yes,No,2/19/1986,40-13,Conf Finals
+1986-87,No,Los Angeles Lakers,65,17,0.793,1st,West,Yes,Yes,Yes,No,2/20/1987,40-13,Champions
+1986-87,No,Boston Celtics,59,23,0.72,1st,East,Yes,Yes,No,No,2/21/1987,40-14,Finals
+1987-88,No,Los Angeles Lakers,62,20,0.756,1st,West,Yes,Yes,No,Yes,2/18/1988,40-9,Champions
+1987-88,No,Boston Celtics,57,25,0.695,1st,East,Yes,No,No,No,3/4/1988,40-19,Conf Finals
+1987-88,No,Dallas Mavericks,53,29,0.646,3rd,West,Yes,No,No,No,3/4/1988,40-17,Conf Finals
+1988-89,No,Detroit Pistons,63,19,0.768,1st,East,Yes,Yes,Yes,No,3/6/1989,40-16,Champions
+1988-89,No,Los Angeles Lakers,57,25,0.695,1st,West,Yes,No,No,No,3/7/1989,40-18,Finals
+1988-89,No,New York Knicks,52,30,0.634,2nd,East,Yes,No,No,No,3/7/1989,40-19,Conf Semis
+1988-89,No,Cleveland Cavaliers,57,25,0.695,3rd,East,Yes,No,No,No,2/22/1989,40-12,First Round
+1988-89,No,Milwaukee Bucks,49,33,0.598,5th,East,Yes,No,No,No,3/13/1989,40-19,Conf Semis
+1989-90,No,Detroit Pistons,59,23,0.72,1st,East,Yes,Yes,No,No,2/25/1990,40-15,Champions
+1989-90,No,Los Angeles Lakers,63,19,0.768,1st,West,Yes,Yes,Yes,No,2/23/1990,40-12,Conf Semis
+1989-90,No,Portland Trail Blazers,59,23,0.72,3rd,West,Yes,No,No,No,3/6/1990,40-18,Finals
+1989-90,No,Utah Jazz,55,27,0.671,4th,West,Yes,Yes,No,No,3/1/1990,40-16,First Round
+1989-90,No,Phoenix Suns,54,28,0.659,5th,West,Yes,No,No,No,3/9/1990,40-19,Conf Finals
+1990-91,No,Chicago Bulls,61,21,0.744,1st,East,Yes,Yes,No,No,2/26/1991,40-14,Champions
+1990-91,No,Portland Trail Blazers,63,19,0.768,1st,West,Yes,Yes,Yes,No,2/12/1991,40-9,Conf Finals
+1990-91,No,Boston Celtics,56,26,0.683,2nd,East,Yes,Yes,No,No,2/22/1991,40-13,Conf Semis
+1990-91,No,San Antonio Spurs,55,27,0.671,2nd,West,Yes,No,No,No,3/11/1991,40-19,First Round
+1990-91,No,Los Angeles Lakers,58,24,0.707,3rd,West,Yes,No,No,No,2/24/1991,40-14,Finals
+1990-91,No,Phoenix Suns,55,27,0.671,4th,West,Yes,No,No,No,3/7/1991,40-19,First Round
+1990-91,No,Utah Jazz,54,28,0.659,5th,West,Yes,No,No,No,3/6/1991,40-18,Conf Semis
+1991-92,No,Chicago Bulls,67,15,0.817,1st,East,Yes,Yes,Yes,Yes,2/11/1992,40-9,Champions
+1991-92,No,Portland Trail Blazers,57,25,0.695,1st,West,Yes,No,No,No,3/3/1992,40-18,Finals
+1991-92,No,Golden State Warriors,55,27,0.671,3rd,West,Yes,No,No,No,3/5/1992,40-18,First Round
+1992-93,No,Chicago Bulls,57,25,0.695,2nd,East,Yes,No,No,No,3/3/1993,40-17,Champions
+1992-93,No,Phoenix Suns,62,20,0.756,1st,West,Yes,Yes,Yes,No,2/26/1993,40-11,Finals
+1992-93,No,New York Knicks,60,22,0.732,1st,East,Yes,No,No,No,3/10/1993,40-18,Conf Finals
+1992-93,No,Seattle Super Sonics,55,27,0.671,3rd,West,Yes,No,No,No,3/6/1993,40-17,Conf Finals
+1993-94,No,Houston Rockets,58,24,0.707,2nd,West,Yes,Yes,No,No,3/5/1994,40-15,Champions
+1993-94,No,Seattle Super Sonics,63,19,0.768,1st,West,Yes,Yes,Yes,No,3/1/1994,40-14,First Round
+1993-94,No,Atlanta Hawks,57,25,0.695,1st,East,Yes,No,No,No,3/3/1994,40-16,Conf Semis
+1993-94,No,New York Knicks,57,25,0.695,2nd,East,Yes,No,No,No,3/9/1994,40-19,Finals
+1993-94,No,San Antonio Spurs,55,27,0.671,4th,West,Yes,No,No,No,2/25/1994,40-15,First Round
+1993-94,No,Utah Jazz,53,29,0.646,5th,West,Yes,No,No,No,3/5/1994,40-19,Conf Finals
+1994-95,No,San Antonio Spurs,62,20,0.756,1st,West,Yes,Yes,No,No,3/9/1995,40-17,Conf Finals
+1994-95,No,Houston Rockets,47,35,0.573,6th,West,No,No,No,No,N/A,N/A,Champions
+1994-95,No,Orlando Magic,57,25,0.695,1st,East,Yes,Yes,No,No,2/20/1995,40-12,Finals
+1994-95,No,Phoenix Suns,59,23,0.72,2nd,West,Yes,No,No,No,2/19/1995,40-11,Conf Semis
+1994-95,No,Utah Jazz,60,22,0.732,3rd,West,Yes,Yes,No,No,2/27/1995,40-16,First Round
+1994-95,No,Seattle Super Sonics,57,25,0.695,4th,West,Yes,No,No,No,3/11/1995,40-19,First Round
+1995-96,No,Chicago Bulls,72,10,0.878,1st,East,Yes,Yes,Yes,Yes,2/1/1996,40-3,Champions
+1995-96,No,Seattle Super Sonics,64,18,0.78,1st,West,Yes,Yes,Yes,No,2/22/1996,40-12,Finals
+1995-96,No,Orlando Magic,60,22,0.732,2nd,East,Yes,Yes,No,No,2/23/1996,40-14,Conf Finals
+1995-96,No,San Antonio Spurs,59,23,0.72,2nd,West,Yes,Yes,No,No,3/6/1996,40-18,Conf Semis
+1995-96,No,Utah Jazz,55,27,0.671,3rd,West,Yes,No,No,No,3/5/1996,40-17,Conf Finals
+1996-97,No,Chicago Bulls,69,13,0.841,1st,East,Yes,Yes,Yes,Yes,1/31/1997,40-5,Champions
+1996-97,No,Utah Jazz,64,18,0.78,1st,West,Yes,Yes,Yes,No,2/27/1997,40-15,Finals
+1996-97,No,Miami Heat,61,21,0.744,2nd,East,Yes,Yes,No,No,2/18/1997,40-12,Conf Finals
+1996-97,No,Seattle Super Sonics,57,25,0.695,2nd,West,Yes,No,No,No,2/28/1997,40-16,Conf Semis
+1996-97,No,New York Knicks,57,25,0.695,3rd,East,Yes,No,No,No,2/23/1997,40-15,Conf Semis
+1996-97,No,Los Angeles Lakers,56,26,0.683,4th,West,Yes,No,No,No,3/4/1997,40-19,Conf Semis
+1996-97,No,Atlanta Hawks,56,26,0.683,4th,East,Yes,No,No,No,3/6/1997,40-19,Conf Semis
+1996-97,No,Detroit Pistons,54,28,0.659,5th,East,Yes,No,No,No,2/23/1997,40-13,First Round
+1997-98,No,Chicago Bulls,62,20,0.756,1st,East,Yes,Yes,Yes,No,2/19/1998,40-15,Champions
+1997-98,No,Utah Jazz,62,20,0.756,1st,West,Yes,Yes,Yes,No,3/3/1998,40-16,Finals
+1997-98,No,Seattle Super Sonics,61,21,0.744,2nd,West,Yes,Yes,No,No,2/18/1998,40-12,Conf Semis
+1997-98,No,Miami Heat,55,27,0.671,2nd,East,Yes,No,No,No,2/28/1998,40-18,First Round
+1997-98,No,Los Angeles Lakers,61,21,0.744,3rd,West,Yes,Yes,No,No,3/4/1998,40-18,Conf Finals
+1997-98,No,Indiana Pacers,58,24,0.707,3rd,East,Yes,No,No,No,3/1/1998,40-17,Conf Finals
+1997-98,No,San Antonio Spurs,56,26,0.683,5th,West,Yes,No,No,No,3/2/1998,40-18,Conf Semis
+1998-99,Yes,San Antonio Spurs,37,13,0.74,1st,West,No,No,No,No,N/A,N/A,Champions
+1998-99,Yes,Portland Trail Blazers,35,15,0.7,2nd,West,No,No,No,No,N/A,N/A,Conf Finals
+1998-99,Yes,Utah Jazz,37,13,0.74,3rd,West,No,No,No,No,N/A,N/A,Conf Semis
+1999-00,No,Los Angeles Lakers,67,15,0.817,1st,West,Yes,Yes,Yes,No,2/18/2000,40-11,Champions
+1999-00,No,Indiana Pacers,56,26,0.683,1st,East,Yes,No,No,No,3/5/2000,40-19,Finals
+1999-00,No,Portland Trail Blazers,59,23,0.72,3rd,West,Yes,Yes,No,No,2/16/2000,40-11,Conf Finals
+2000-01,No,Los Angeles Lakers,56,26,0.683,2nd,West,Yes,No,No,No,3/6/2001,40-19,Champions
+2000-01,No,San Antonio Spurs,58,24,0.707,1st,West,Yes,No,No,No,3/5/2001,40-19,Conf Finals
+2000-01,No,Philadelphia 76ers,56,26,0.683,1st,East,Yes,No,No,No,2/18/2001,40-14,Finals
+2000-01,No,Sacramento Kings,55,27,0.671,2nd,West,Yes,No,No,No,3/7/2001,40-19,Conf Semis
+2000-01,No,Utah Jazz,53,29,0.646,3rd,West,Yes,No,No,No,3/4/2001,40-18,First Round
+2000-01,No,Portland Trail Blazers,50,32,0.61,7th,West,Yes,No,No,No,2/27/2001,40-18,First Round
+2001-02,No,Los Angeles Lakers,58,24,0.707,3rd,West,Yes,No,No,No,3/1/2002,40-17,Champions
+2001-02,No,Sacramento Kings,61,21,0.744,1st,West,Yes,Yes,Yes,No,2/19/2002,40-13,Conf Finals
+2001-02,No,Dallas Mavericks,57,25,0.695,4th,West,Yes,No,No,No,2/26/2002,40-17,Conf Semis
+2001-02,No,Minnesota Timberwolves,50,32,0.61,5th,West,Yes,No,No,No,3/2/2002,40-19,First Round
+2002-03,No,San Antonio Spurs,60,22,0.732,1st,West,Yes,No,No,No,3/1/2003,40-17,Champions
+2002-03,No,Sacramento Kings,59,23,0.72,2nd,West,Yes,No,No,No,2/25/2003,40-18,Conf Semis
+2002-03,No,Dallas Mavericks,60,22,0.732,3rd,West,Yes,Yes,No,No,2/15/2003,40-12,Conf Finals
+2003-04,No,Indiana Pacers,61,21,0.744,1st,East,Yes,Yes,No,No,2/20/2004,40-15,Conf Finals
+2003-04,No,Detroit Pistons,54,28,0.659,3rd,East,No,No,No,No,N/A,N/A,Champions
+2003-04,No,Minnesota Timberwolves,58,24,0.707,1st,West,Yes,No,No,No,2/20/2004,40-15,Conf Finals
+2003-04,No,Sacramento Kings,55,27,0.671,4th,West,Yes,Yes,No,No,2/22/2004,40-14,Conf Semis
+2004-05,No,San Antonio Spurs,59,23,0.72,2nd,West,Yes,Yes,No,No,2/11/2005,40-11,Champions
+2004-05,No,Phoenix Suns,62,20,0.756,1st,West,Yes,Yes,Yes,No,2/13/2005,40-12,Conf Finals
+2004-05,No,Miami Heat,59,23,0.72,1st,East,Yes,Yes,No,No,2/16/2005,40-14,Conf Finals
+2005-06,No,Detroit Pistons,64,18,0.78,1st,East,Yes,Yes,Yes,Yes,2/8/2006,40-8,Conf Finals
+2005-06,No,Miami Heat,52,30,0.634,2nd,East,No,No,No,No,N/A,N/A,Champions
+2005-06,No,San Antonio Spurs,63,19,0.768,1st,West,Yes,Yes,Yes,No,2/12/2006,40-10,Conf Semis
+2005-06,No,Phoenix Suns,54,28,0.659,2nd,West,Yes,No,No,No,3/3/2006,40-17,Conf Finals
+2005-06,No,Dallas Mavericks,60,22,0.732,4th,West,Yes,Yes,No,No,2/13/2006,40-11,Finals
+2006-07,No,San Antonio Spurs,58,24,0.707,3rd,West,Yes,No,No,No,3/2/2007,40-18,Champions
+2006-07,No,Dallas Mavericks,67,15,0.817,1st,West,Yes,Yes,Yes,Yes,2/7/2007,40-9,First Round
+2006-07,No,Phoenix Suns,61,21,0.744,2nd,West,Yes,Yes,Yes,No,2/20/2007,40-13,Conf Semis
+2006-07,No,Utah Jazz,51,31,0.622,4th,West,Yes,No,No,No,3/4/2007,40-19,Conf Finals
+2007-08,No,Boston Celtics,66,16,0.805,1st,East,Yes,Yes,Yes,Yes,2/12/2008,40-9,Champions
+2007-08,No,Los Angeles Lakers,57,25,0.695,1st,West,Yes,No,No,No,2/26/2008,40-17,Finals
+2007-08,No,Detroit Pistons,59,23,0.732,2nd,East,Yes,No,No,No,2/22/2008,40-15,Conf Finals
+2007-08,No,New Orleans Hornets,56,26,0.683,2nd,West,Yes,No,No,No,3/1/2008,40-17,Conf Semis
+2007-08,No,San Antonio Spurs,56,26,0.683,3rd,West,Yes,No,No,No,3/3/2008,40-19,Conf Finals
+2008-09,No,Los Angeles Lakers,65,17,0.793,1st,West,Yes,Yes,Yes,Yes,2/5/2009,40-9,Champions
+2008-09,No,Cleveland Cavaliers,66,16,0.805,1st,East,Yes,Yes,Yes,No,2/11/2009,40-11,Conf Finals
+2008-09,No,Boston Celtics,62,20,0.756,2nd,East,Yes,Yes,Yes,Yes,2/1/2009,40-9,Conf Semis
+2008-09,No,Orlando Magic,59,23,0.72,3rd,East,Yes,Yes,No,No,2/20/2009,40-14,Finals
+2008-09,No,San Antonio Spurs,54,28,0.659,3rd,West,Yes,No,No,No,3/2/2009,40-19,First Round
+2009-10,No,Los Angeles Lakers,57,25,0.695,1st,West,Yes,Yes,No,No,2/8/2010,40-13,Champions
+2009-10,No,Cleveland Cavaliers,61,21,0.744,1st,East,Yes,Yes,Yes,No,2/4/2010,40-11,Conf Semis
+2010-11,No,Dallas Mavericks,57,25,0.695,3rd,West,Yes,No,No,No,2/17/2011,40-16,Champions
+2010-11,No,Chicago Bulls,62,20,0.756,1st,East,Yes,Yes,No,No,2/26/2011,40-17,Conf Finals
+2010-11,No,San Antonio Spurs,61,21,0.744,1st,West,Yes,Yes,Yes,Yes,1/29/2011,40-7,First Round
+2010-11,No,Los Angeles Lakers,57,25,0.695,2nd,West,Yes,No,No,No,2/23/2011,40-19,Conf Semis
+2010-11,No,Miami Heat,58,24,0.707,2nd,East,Yes,No,No,No,2/15/2011,40-15,Finals
+2010-11,No,Boston Celtics,56,26,0.683,3rd,East,Yes,Yes,No,No,2/16/2011,40-14,Conf Semis
+2011-12,Yes,Miami Heat,46,20,0.697,2nd,East,Yes,No,No,No,4/8/2012,40-15,Champions
+2011-12,Yes,San Antonio Spurs,50,16,0.758,1st,West,Yes,Yes,No,No,4/8/2012,40-14,Conf Finals
+2011-12,Yes,Chicago Bulls,50,16,0.758,1st,East,Yes,Yes,No,No,3/24/2012,40-10,First Round
+2011-12,Yes,Oklahoma City Thunder,47,19,0.712,2nd,West,Yes,No,No,No,4/1/2012,40-12,Finals
+2012-13,No,Miami Heat,66,16,0.805,1st,East,Yes,Yes,Yes,No,2/24/2013,40-14,Champions
+2012-13,No,Oklahoma City Thunder,60,22,0.732,1st,West,Yes,Yes,No,No,2/22/2013,40-15,Conf Semis
+2012-13,No,San Antonio Spurs,58,24,0.707,2nd,West,Yes,Yes,No,No,2/10/2013,40-12,Finals
+2012-13,No,Los Angeles Clippers,56,26,0.683,4th,West,Yes,No,No,No,2/23/2013,40-18,First Round
+2012-13,No,Memphis Grizzlies,56,26,0.683,5th,West,Yes,No,No,No,3/6/2013,40-19,Conf Finals
+2013-14,No,San Antonio Spurs,62,20,0.756,1st,West,Yes,Yes,Yes,No,2/19/2014,40-15,Champions
+2013-14,No,Indiana Pacers,56,26,0.683,1st,East,Yes,Yes,No,No,2/10/2014,40-11,Conf Finals
+2013-14,No,Oklahoma City Thunder,59,23,0.72,2nd,West,Yes,Yes,No,No,2/5/2014,40-11,Conf Finals
+2013-14,No,Miami Heat,54,28,0.659,2nd,East,Yes,No,No,No,2/23/2014,40-14,Finals
+2013-14,No,Houston Rockets,54,28,0.659,4th,West,Yes,No,No,No,3/2/2014,40-19,First Round
+2013-14,No,Portland Trail Blazers,54,28,0.659,5th,West,Yes,No,No,No,2/26/2014,40-18,Conf Semis
+2014-15,No,Golden State Warriors,67,15,0.817,1st,West,Yes,Yes,Yes,Yes,2/7/2015,40-9,Champions
+2014-15,No,Atlanta Hawks,60,22,0.732,1st,East,Yes,Yes,Yes,Yes,1/31/2015,40-8,Conf Finals
+2014-15,No,Houston Rockets,56,26,0.683,2nd,West,Yes,No,No,No,2/27/2015,40-18,Conf Finals
+2014-15,No,Portland Trail Blazers,51,31,0.622,4th,West,Yes,No,No,No,3/4/2015,40-19,First Round
+2014-15,No,Memphis Grizzlies,55,27,0.671,5th,West,Yes,No,No,No,2/22/2015,40-14,Conf Semis
+2015-16,No,Cleveland Cavaliers,57,25,0.695,1st,East,Yes,No,No,No,2/21/2016,40-14,Champions
+2015-16,No,Golden State Warriors,73,9,0.89,1st,West,Yes,Yes,Yes,Yes,1/22/2016,40-4,Finals
+2015-16,No,San Antonio Spurs,67,15,0.817,2nd,West,Yes,Yes,Yes,Yes,2/1/2016,40-8,Conf Semis
+2015-16,No,Toronto Raptors,56,26,0.683,2nd,East,Yes,No,No,No,3/2/2016,40-19,Conf Finals
+2015-16,No,Oklahoma City Thunder,55,27,0.671,3rd,West,Yes,No,No,No,2/11/2016,40-14,Conf Finals
+2016-17,No,Golden State Warriors,67,15,0.817,1st,West,Yes,Yes,Yes,Yes,1/28/2017,40-7,Champions
+2016-17,No,San Antonio Spurs,61,21,0.744,2nd,West,Yes,Yes,Yes,No,2/8/2017,40-12,Conf Finals
+2016-17,No,Houston Rockets,55,27,0.671,3rd,West,Yes,No,No,No,2/11/2017,40-17,Conf Semis
+2016-17,No,Cleveland Cavaliers,51,31,0.622,2nd,East,Yes,No,No,No,2/23/2017,40-16,Finals
+2017-18,No,Golden State Warriors,58,24,0.707,2nd,West,Yes,Yes,No,No,1/27/2018,40-10,Champions
+2017-18,No,Houston Rockets,65,17,0.793,1st,West,Yes,Yes,Yes,No,2/7/2018,40-13,Conf Finals
+2017-18,No,Toronto Raptors,59,23,0.72,1st,East,Yes,Yes,No,No,2/13/2018,40-16,Conf Semis
+2017-18,No,Boston Celtics,55,27,0.671,2nd,East,Yes,No,No,No,2/8/2018,40-16,Conf Finals
+2018-19,No,Toronto Raptors,58,24,0.707,2nd,East,Yes,No,No,No,2/7/2019,40-16,Champions
+2018-19,No,Milwaukee Bucks,60,22,0.732,1st,East,Yes,Yes,No,No,2/6/2019,40-13,Conf Finals
+2018-19,No,Golden State Warriors,57,25,0.695,1st,West,Yes,No,No,No,2/10/2019,40-15,Finals
+2018-19,No,Denver Nuggets,54,28,0.659,2nd,West,Yes,No,No,No,2/22/2019,40-18,Conf Semis
+2019-20,Yes,Los Angeles Lakers,52,19,0.732,1st,West,Yes,Yes,No,No,2/10/2020,40-12,Champions
+2019-20,Yes,Milwaukee Bucks,56,17,0.767,1st,East,Yes,Yes,No,Yes,1/27/2020,40-6,Conf Semis
+2019-20,Yes,Toronto Raptors,53,19,0.736,2nd,East,Yes,Yes,No,No,2/10/2020,40-14,Conf Semis
+2019-20,Yes,Los Angeles Clippers,49,23,0.681,2nd,West,Yes,No,No,No,2/28/2020,40-19,Conf Semis
+2019-20,Yes,Boston Celtics,48,24,0.667,3rd,East,Yes,No,No,No,2/25/2020,40-17,Conf Finals
+2019-20,Yes,Denver Nuggets,46,27,0.63,3rd,West,Yes,No,No,No,2/25/2020,40-18,Conf Finals
+2020-21,Yes,Utah Jazz,52,20,0.722,1st,West,Yes,Yes,No,No,4/10/2021,40-13,Conf Semis
+2020-21,Yes,Milwaukee Bucks,46,26,0.639,3rd,East,No,No,No,No,N/A,N/A,Champions
+2020-21,Yes,Phoenix Suns,51,21,0.708,2nd,West,Yes,No,No,No,4/15/2021,40-15,Finals
+2020-21,Yes,Los Angeles Clippers,47,25,0.653,4th,West,Yes,No,No,No,4/18/2021,40-19,Conf Finals
+2021-22,No,Golden State Warriors,53,29,0.646,3rd,West,Yes,No,No,No,2/3/2022,40-13,Champions
+2021-22,No,Phoenix Suns,64,18,0.78,1st,West,Yes,Yes,Yes,Yes,1/30/2022,40-9,Conf Semis
+2021-22,No,Memphis Grizzlies,56,26,0.683,2nd,West,Yes,No,No,No,2/12/2022,40-18,Conf Semis
+2022-23,No,Denver Nuggets,53,29,0.646,1st,West,Yes,No,No,No,2/13/2023,40-18,Champions
+2022-23,No,Milwaukee Bucks,58,24,0.707,1st,East,Yes,Yes,No,No,2/14/2023,40-17,First Round
+2022-23,No,Boston Celtics,57,25,0.695,2nd,East,Yes,No,No,No,2/10/2023,40-16,Conf Finals
+2023-24,No,Boston Celtics,64,18,0.78,1st,East,Yes,Yes,Yes,No,2/9/2024,40-12,Champions
+2023-24,No,Oklahoma City Thunder,57,25,0.695,1st,West,Yes,No,No,No,2/25/2024,40-17,Conf Semis
+2023-24,No,Denver Nuggets,57,25,0.695,2nd,West,Yes,No,No,No,2/28/2024,40-19,Conf Semis
+2023-24,No,Minnesota Timberwolves,56,26,0.683,3rd,West,Yes,No,No,No,2/24/2024,40-17,Conf Finals
+2024-25,No,Oklahoma City Thunder,68,14,0.829,1st,West,Yes,Yes,Yes,Yes,2/5/2025,40-9,Champions
+2024-25,No,Cleveland Cavaliers,64,18,0.78,1st,East,Yes,Yes,Yes,Yes,2/2/2025,40-9,Conf Semis
+2024-25,No,Boston Celtics,61,21,0.744,2nd,East,Yes,Yes,No,No,2/20/2025,40-16,Conf Semis
