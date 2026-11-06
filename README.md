@@ -39,7 +39,7 @@ Here's a preview of the notebook for this project:
 
 # The 40-20 Rule: Does It Predict NBA Championship Contenders?
 
-*All code and markdown are written by Jawad Kazma.*
+*All code and markdowns are written by Jawad Kazma.*
 
 ## The 40-20 Rule
 
